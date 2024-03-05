@@ -1,5 +1,5 @@
-- 👋 初めまして
-- 🦊 あたしは天宮橘音（あまみや　きつね）です
+# 👋 初めまして
+## 🦊 あたしは天宮橘音（あまみや　きつね）です
 
 <!---
 AmamiyaKitune/AmamiyaKitune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
